@@ -19,4 +19,5 @@ _禁用/啟用 -> 已停用/啟用中_<br>
 
 ## 安裝方法
 
-Windows使用者推薦下載exe執行檔，可自動安裝或輕鬆解除安裝此翻譯。手動可下載ZIP壓縮包，解壓縮後會包含pak、ucas、utoc三個檔案，將其放入遊戲Subnautica2-Windows.pak相同資料夾中(通常是```...Subnautica2\Content\Paks\```)即完成。**安裝成功後，需在遊戲語言選項中選擇中文(简体)並套用。**
+Windows使用者推薦下載exe執行檔，可自動安裝或輕鬆解除安裝此翻譯。手動可下載ZIP壓縮包，解壓縮後會包含pak、ucas、utoc三個檔案，將其放入遊戲Subnautica2-Windows.pak相同資料夾中(通常是```...Subnautica2\Content\Paks\```)即完成。**安裝成功後，需在遊戲語言選項中選擇中文(简体)並套用。**<br>
+[Subnautica 2 非官方繁體中文包]( https://markdownlivepreview.com/](https://github.com/bubblecod/S2TC/releases )
