@@ -1,0 +1,28 @@
+版權聲明
+【遊戲翻譯專案版權與使用條款聲明】
+本翻譯專案（以下簡稱「本作品」）由 [https://github.com/bubblecod] 獨立製作完成。本作品之翻譯文本著作權歸原作者所有。
+為促進社群交流，本作品依據以下條款開放予大眾使用：
+．完全免費與無償使用：本作品開放給所有玩家免費下載、安裝使用與分享。
+．嚴禁商業與營利行為：
+　．禁止將本作品之全部或部分內容用於任何商業用途。
+　．禁止將本作品上架至任何付費平台、進行販售、或夾帶於任何需要付費/贊助才能解鎖的內容中（包括但不限於付費訂閱制、付費群組、限制下載等）。
+　．禁止任何第三方將本作品與商業商品捆綁銷售。
+．轉載與分享規範：歡迎在非營利的前提下自由轉載與分享，但轉載時必須保留此版權聲明，並明確標註原作者與出處。
+免責聲明：本作品僅為愛好者自發製作之非官方翻譯，所有遊戲本體之智慧財產權仍歸原遊戲開發商/發行商所有。本作品不保證與所有遊戲版本完全相容，亦不對因使用本作品而產生的任何系統錯誤、資料遺失之風險承擔法律責任。
+
+本作品採用 創用 CC 姓名標示-非商業性 4.0 國際授權條款 進行授權。
+
+Copyright Notice
+【Translation Project Copyright & Terms of Use Notice】
+This translation project (hereinafter referred to as "the Work") is independently created by [https://github.com/bubblecod]. The copyright of the translated text belongs to the original author.
+To promote community exchange, this Work is made available to the public under the following terms:
+．Free for Non-Commercial Use: This Work is freely available for all players to download, install/apply, and share without any charge.
+．Strictly Prohibited Commercial Use:
+　．Any commercial use of this Work, in whole or in part, is strictly prohibited.
+　．It is forbidden to upload this Work to any paid platforms, sell it, or include it behind any paywalls/subscription models (including but not limited to paid groups, restricted downloads, or patron-only rewards).
+　．No third party may bundle this Work with commercial products for sale.
+．Redistribution Guidelines: Redistribution and sharing are welcomed for non-commercial purposes, provided that this copyright notice is retained in its entirety and proper credit is given to the original author and source.
+．No Unauthorized Modifications: Without the prior written consent of the original author, modifying, repackaging, or integrating this Work into other commercial or non-commercial projects is strictly prohibited.
+Disclaimer: This Work is an unofficial, fan-made translation. All intellectual property rights of the original game belong to the game's developers/publishers. This Work does not guarantee full compatibility with all game versions, and the creator assumes no legal liability for any system errors or data loss resulting from the use of this Work.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
