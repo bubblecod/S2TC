@@ -1,5 +1,5 @@
 # Subnautica 2 非官方繁體中文
-
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ## 翻譯重點
 1. 提取官方原始簡體中文翻譯，透過繁化姬轉換為台灣繁中，再手動微調細節<br>
 _窗口 -> 視窗_<br>
